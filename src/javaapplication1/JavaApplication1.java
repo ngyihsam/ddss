@@ -16,6 +16,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         System.out.println("week4");
+        System.out.println("weekasasaas");
     }
     
 }
